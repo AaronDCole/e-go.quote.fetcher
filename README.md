@@ -25,7 +25,7 @@ This is comprised of:
 
 # Transvirtual suburb autocomplete
 
-This is a publically accessable api for discovering the unique ID of possible suburbs
+This is a publicly accessible api for discovering the unique ID of possible suburbs
 
 'https://portal.transvirtual.co/Widget/SuburbAutocomplete?term=' + term
 
